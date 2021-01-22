@@ -1,0 +1,14 @@
+<header class="navbar-fixed">
+    <nav class="orange lighten-1">
+      <div class="container nav-wrapper">
+         <%= link_to "Scuola1", root_path, class: "brand-logo" %>
+        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          <%= link_to "about", about_path %>
+        </ul>
+      </div>
+    </nav>
+  </header>
+    <ul class="sidenav" id="mobile-demo">
+      <%= link_to "about", about_path %>
+    </ul>
