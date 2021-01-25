@@ -1,20 +1,20 @@
 <header class="navbar-fixed">
-    <nav class="orange lighten-1">
-      <div class="container nav-wrapper">
-         <%= link_to "Scuola1", root_path, class: "brand-logo" %>
-        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-        <ul class="right hide-on-med-and-down">
+  <nav class="orange lighten-1">
+    <div class="container nav-wrapper">
+       <%= link_to "Scuola1", root_path, class: "brand-logo" %>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
 
-          <% if user_signed_in?%>
-            <li><%= link_to "Log Out", destroy_user_session_path, method: :delete %></li>
-          <% else %>
-            <li><%= link_to "Log In", new_user_session_path %></li>
-            <li><%= link_to "Registrati", new_user_registration_path %></li>
-          <% end %>
-        </ul>
-      </div>
-    </nav>
-  </header>
+      <% if user_signed_in?%>
+        <li><%= link_to "Log Out", destroy_user_session_path, method: :delete %></li>
+      <% else %>
+        <li><%= link_to "Log In", new_user_session_path %></li>
+        <li><%= link_to "Registrati", new_user_registration_path %></li>
+      <% end %>
+      </ul>
+    </div>
+  </nav>
+</header>
     <ul class="sidenav" id="mobile-demo">
       <% if user_signed_in?%>
         <li><%= link_to "Log Out", destroy_user_session_path, method: :delete %></li>
