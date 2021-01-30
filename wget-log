@@ -1,0 +1,93 @@
+Richiesta HTTP inviata, in attesa di risposta... 200 OK
+Lunghezza: 13780889 (13M) [application/x-gzip]
+Salvataggio in: "ImageMagick.tar.gz"
+
+
+
+2021-01-25 16:59:21 (17,9 KB/s) - Connessione chiusa al byte 9383875. Altro tentativo in corso.
+
+--2021-01-25 16:59:22--  (tentativo: 2)  https://download.imagemagick.org/ImageMagick/download/ImageMagick.tar.gz
+Connessione a download.imagemagick.org (download.imagemagick.org)|50.251.58.9|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 206 Partial Content
+Lunghezza: 13780889 (13M), 4397014 (4,2M) rimanenti [application/x-gzip]
+Salvataggio in: "ImageMagick.tar.gz"
+
+
+
+2021-01-25 17:04:11 (9,66 KB/s) - Connessione chiusa al byte 12231690. Altro tentativo in corso.
+
+--2021-01-25 17:04:13--  (tentativo: 3)  https://download.imagemagick.org/ImageMagick/download/ImageMagick.tar.gz
+Connessione a download.imagemagick.org (download.imagemagick.org)|50.251.58.9|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 206 Partial Content
+Lunghezza: 13780889 (13M), 1549199 (1,5M) rimanenti [application/x-gzip]
+Salvataggio in: "ImageMagick.tar.gz"
+
+ImageMagick.tar.gz   92%[+++++++++++++++++>  ]  12,12M  5,18KB/s    in 90s     
+
+2021-01-25 17:20:45 (5,18 KB/s) - Errore di lettura al byte 12711504/13780889 (Errore di input/output). Altro tentativo in corso.
+
+--2021-01-25 17:20:48--  (tentativo: 4)  https://download.imagemagick.org/ImageMagick/download/ImageMagick.tar.gz
+Connessione a download.imagemagick.org (download.imagemagick.org)|50.251.58.9|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 206 Partial Content
+Lunghezza: 13780889 (13M), 1069385 (1,0M) rimanenti [application/x-gzip]
+Salvataggio in: "ImageMagick.tar.gz"
+
+        [ 12400K ignorato ]
+ 12400K ,,,,,,,,,, ,,,....... .......... .......... .......... 92%  201K 7s
+ 12450K .......... .......... .......... .......... .......... 92%  122K 7s
+ 12500K .......... .......... .......... .......... .......... 93%  105K 8s
+ 12550K .......... .......... .......... .......... .......... 93% 2,64K 92s
+ 12600K .......... .......... .......... .......... .......... 93% 11,1K 84s
+ 12650K .......... .......... .......... .......... .......... 94%  656  4m32s
+ 12700K .......... .......... .......... .......... .......... 94% 1,42K 4m50s
+ 12750K .......... .......... .......... .......... .......... 95% 27,8K 3m58s
+ 12800K .......... .......... .......... .......... .......... 95% 51,4K 3m16s
+ 12850K .......... .......... .......... .......... .......    95% 6,00K=2m29s
+
+2021-01-25 17:23:19 (3,26 KB/s) - Connessione chiusa al byte 13207318. Altro tentativo in corso.
+
+--2021-01-25 17:23:23--  (tentativo: 5)  https://download.imagemagick.org/ImageMagick/download/ImageMagick.tar.gz
+Connessione a download.imagemagick.org (download.imagemagick.org)|50.251.58.9|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 206 Partial Content
+Lunghezza: 13780889 (13M), 573571 (560K) rimanenti [application/x-gzip]
+Salvataggio in: "ImageMagick.tar.gz"
+
+        [ 12850K ignorato ]
+ 12850K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,... 95% 4,46G 0s
+ 12900K .......... .......... .......... .......... .......... 96% 3,12K 2m36s
+ 12950K .......... .......... .......... .......... .......... 96% 17,7K 84s
+ 13000K .......... .......... .......... .......... .......... 96% 57,0K 53s
+ 13050K .......... .......... .......... .......... .......... 97% 2,69K 68s
+ 13100K .......... .......... .......... .......... .......... 97% 16,7K 50s
+ 13150K .......... .......... .......... .......... .......... 98% 50,5M 35s
+ 13200K .......... .......... .......... .......... .......... 98% 29,7K 25s
+ 13250K .......... .......... .......... .......... .......... 98% 2,26K 26s
+ 13300K .......... .........                                   98% 10,3K=67s
+
+2021-01-25 17:24:43 (6,29 KB/s) - Errore di lettura al byte 13639133/13780889 (Connessione interrotta dal corrispondente). Altro tentativo in corso.
+
+--2021-01-25 17:24:48--  (tentativo: 6)  https://download.imagemagick.org/ImageMagick/download/ImageMagick.tar.gz
+Connessione a download.imagemagick.org (download.imagemagick.org)|50.251.58.9|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 206 Partial Content
+Lunghezza: 13780889 (13M), 141756 (138K) rimanenti [application/x-gzip]
+Salvataggio in: "ImageMagick.tar.gz"
+
+        [ 13300K ignorato ]
+ 13300K ,,,,,,,,,, ,,,,,,,,,. .......... .......... .......... 99% 42,9K 4s
+ 13350K .......... .......... .......... .......... .......... 99%  463  80s
+ 13400K .......... .......... ........                         99% 6,01K=1m56s
+
+2021-01-25 17:26:49 (960 B/s) - Connessione chiusa al byte 13750948. Altro tentativo in corso.
+
+--2021-01-25 17:26:55--  (tentativo: 7)  https://download.imagemagick.org/ImageMagick/download/ImageMagick.tar.gz
+Connessione a download.imagemagick.org (download.imagemagick.org)|50.251.58.9|:443... connesso.
+Richiesta HTTP inviata, in attesa di risposta... 206 Partial Content
+Lunghezza: 13780889 (13M), 29941 (29K) rimanenti [application/x-gzip]
+Salvataggio in: "ImageMagick.tar.gz"
+
+        [ 13400K ignorato ]
+ 13400K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,.. .......... .......... 99%  194K 0s
+ 13450K .......                                               100%  971K=0,3s
+
+2021-01-25 17:26:58 (110 KB/s) - "ImageMagick.tar.gz" salvato [13780889/13780889]
+

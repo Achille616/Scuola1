@@ -31,6 +31,12 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'materialize-sass', '~> 1.0.0'
 # Installo gemma del database frontend
 gem 'devise'
+# Installo paperclip manualmente
+gem 'paperclip', '~> 3.0'
+
+gem 'rake', '~> 13.0', '>= 13.0.3'
+
+gem 'migrate', '~> 0.0.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
